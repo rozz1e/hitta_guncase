@@ -1,7 +1,7 @@
 The only purpose of this script is to expand the role-play on your server.
 
 ## Preview
-![guncase](https://github.com/blobb-max/previews/blob/main/guncase.gif)
+- [guncase](https://medal.tv/?contentId=ixXqz2z4sWevoTZ62&invite=cr-MSxZOGwsMjc0NDYxNjMs&spok=d1337mZ6OilR)
 
 ## Dependencies
 - [esx-core](https://github.com/esx-framework/esx_core)
